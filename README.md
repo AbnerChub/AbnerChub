@@ -1,16 +1,75 @@
-## Hi there 👋
+# Olá! Eu sou o Abner 👋
 
-<!--
-**AbnerChub/AbnerChub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Desenvolvedor de Software | Estudante de DSM</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de Desenvolvimento de Software Multiplataforma na FATEC Praia Grande.
+  <br>
+  Apaixonado por tecnologia, programação e desenvolvimento de soluções.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na FATEC Praia Grande.
+- 💻 Técnico em Informática para Internet pela ETEC.
+- 🌱 Sempre buscando aprender e desenvolver novas habilidades.
+- 🔍 Interessado em desenvolvimento web, programação e banco de dados.
+- 🎯 Em busca de uma oportunidade de estágio ou posição júnior.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens e desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cs" />
+</p>
+
+### Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,photoshop,pr,ae" />
+</p>
+
+---
+
+## 📚 Formação
+
+- **FATEC Praia Grande** — Desenvolvimento de Software Multiplataforma (em andamento).
+- **ETEC / Centro Paula Souza** — Técnico em Informática para Internet (2022).
+
+---
+
+## 📂 Projetos
+
+Aqui compartilho projetos acadêmicos, experimentos e aplicações desenvolvidas durante minha jornada de aprendizado.
+
+<!-- Adicione seus principais repositórios aqui -->
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abner-chub-rodrigues-lindes-97834937b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abnerchublindes@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💻 Construindo meu futuro através da tecnologia.
+</p>
